@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: inline;
+  justify-content: center;
+}
+
+.chart{
+  width: 1000px;
+  height: 1000px;
+  padding: 0%;
+  position: relative;
+  align-items: center;
+  aspect-ratio: false;
+
+}
+
